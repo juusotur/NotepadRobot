@@ -8,7 +8,7 @@
     "UiPath.Mail.Activities": "[1.10.2-preview]",
     "UiPath.Presentations.Activities": "[1.1.2-preview]",
     "UiPath.System.Activities": "[21.2.1-preview]",
-    "UiPath.UIAutomation.Activities": "[21.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "[21.4.0-preview]",
     "UiPath.Word.Activities": "[1.6.2-preview]"
   },
   "webServices": [],
